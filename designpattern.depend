@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1573060635 source:c:\users\dinh tuyen\desktop\parse config\test\designpattern\main.cpp
+	<iostream>
+	"abstracmethod.h"
+	"factorymethod.h"
+	"multipleinheritance.h"
+
+1573055390 c:\users\dinh tuyen\desktop\parse config\test\designpattern\student.h
+	<iostream>
+	<string>
+
+1573058955 c:\users\dinh tuyen\desktop\parse config\test\designpattern\abstracmethod.h
+	<iostream>
+	<string>
+
+1573060666 c:\users\dinh tuyen\desktop\parse config\test\designpattern\factorymethod.h
+	<iostream>
+	<string>
+	<vector>
+
+1573060962 c:\users\dinh tuyen\desktop\parse config\test\designpattern\multipleinheritance.h
+	"string"
+	<iostream>
+
